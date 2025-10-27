@@ -1,2 +1,2 @@
 # fastmcp_roy
-using fastmcp to build the mcp server
+By fastmcp to build the mcp server on your environment for your llms
